@@ -12,6 +12,10 @@ After downloading/cloning the upgrade tool, you need to install dependencies wit
 ```bash
 php composer.phar install
 ```
+Or
+```bash
+composer install
+```
 
 Once dependencies are installed you can start using the `upgrade` shell.
 
